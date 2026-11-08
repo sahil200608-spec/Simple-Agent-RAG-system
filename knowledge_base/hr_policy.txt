@@ -1,0 +1,13 @@
+Sample Human Resources Policy
+
+This sample policy is for testing the RAG knowledge base and is not an official company policy.
+
+Work hours: The standard schedule is 9:00 a.m. to 5:00 p.m., Monday through Friday, with a one-hour lunch break. Teams may agree on different schedules with their manager.
+
+Respectful workplace: Employees must treat colleagues, customers, and visitors respectfully. Harassment, discrimination, bullying, and retaliation are not allowed. Report concerns to HR or a manager.
+
+Confidential information: Protect employee records, customer information, passwords, and internal business documents. Share confidential information only with people who need it for their work.
+
+Performance reviews: Managers should hold a formal performance review with each employee twice per year. Employees may request a check-in with their manager at any time.
+
+Questions: Contact the HR team for help with benefits, workplace concerns, or policy interpretation.

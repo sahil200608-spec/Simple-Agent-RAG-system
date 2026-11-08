@@ -1,0 +1,11 @@
+Sample Leave Policy
+
+This sample policy applies to full-time employees. It is for testing the RAG knowledge base and is not an official company policy.
+
+Annual leave: Employees receive 18 paid annual-leave days per calendar year. Submit requests to your manager at least five working days in advance when possible. Approval depends on team coverage.
+
+Sick leave: Employees receive 8 paid sick days per year. Tell your manager as soon as practical when illness prevents you from working. A medical certificate may be requested for absences longer than three consecutive working days.
+
+Parental leave: Eligible employees may take up to 12 weeks of parental leave. Contact HR at least 30 days before the expected start date when possible to discuss eligibility and arrangements.
+
+Unused annual leave: Up to 5 unused annual-leave days may be carried into the next calendar year. Carried days must be used by March 31 or they expire.

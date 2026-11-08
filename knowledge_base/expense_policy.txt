@@ -1,0 +1,13 @@
+Sample Business Expense Policy
+
+This sample policy is for testing the RAG knowledge base and is not an official company policy.
+
+Approval: Get manager approval before making a business purchase over $100. Purchases over $500 also require department-head approval.
+
+Reimbursement: Submit an expense report with an itemized receipt within 30 days of the purchase. Include the business purpose and project or client name when relevant.
+
+Meals: Reasonable business meals may be reimbursed when they have a clear work purpose. Alcohol is not reimbursable.
+
+Travel: Book standard economy airfare and reasonably priced lodging. Obtain manager approval before booking travel.
+
+Personal expenses: Personal purchases, traffic fines, and expenses without a business purpose are not reimbursable.

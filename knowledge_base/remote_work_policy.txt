@@ -1,0 +1,13 @@
+Sample Remote Work Policy
+
+This sample policy is for testing the RAG knowledge base and is not an official company policy.
+
+Eligibility: Remote work requires manager approval and depends on the employee's role and team needs.
+
+Availability: Remote employees should be reachable during their agreed working hours and attend scheduled team meetings. Update your calendar when you will be unavailable.
+
+Equipment and security: Use company-approved devices and secure network connections. Lock your screen when away and do not let others use your work device.
+
+Expenses: Ask your manager for written approval before purchasing equipment or services for remote work. Submit approved expenses with receipts within 30 days.
+
+Changes: Managers may review or change remote-work arrangements when business needs change.
